@@ -1,0 +1,14 @@
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\bin\Debug\netcoreapp3.1\BusinessTotals.exe
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\bin\Debug\netcoreapp3.1\BusinessTotals.deps.json
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\bin\Debug\netcoreapp3.1\BusinessTotals.runtimeconfig.json
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\bin\Debug\netcoreapp3.1\BusinessTotals.runtimeconfig.dev.json
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\bin\Debug\netcoreapp3.1\BusinessTotals.dll
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\bin\Debug\netcoreapp3.1\BusinessTotals.pdb
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\obj\Debug\netcoreapp3.1\BusinessTotals.AssemblyInfoInputs.cache
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\obj\Debug\netcoreapp3.1\BusinessTotals.AssemblyInfo.cs
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\obj\Debug\netcoreapp3.1\BusinessTotals.csproj.CoreCompileInputs.cache
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\obj\Debug\netcoreapp3.1\BusinessTotals.dll
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\obj\Debug\netcoreapp3.1\BusinessTotals.pdb
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\obj\Debug\netcoreapp3.1\BusinessTotals.genruntimeconfig.cache
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\obj\Debug\netcoreapp3.1\BusinessTotals.csproj.AssemblyReference.cache
+C:\Users\venan\Desktop\BusinessTotals\BusinessTotals\obj\Debug\netcoreapp3.1\BusinessTotals.GeneratedMSBuildEditorConfig.editorconfig
